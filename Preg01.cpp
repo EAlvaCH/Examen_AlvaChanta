@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+//	Pregunta 01
     int n=0;
     float suma=0;
     cout<<"Digite el numero de termino:";cin>>n;
