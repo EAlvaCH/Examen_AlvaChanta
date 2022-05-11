@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-//	Separar un numero en los digitos que lo componen
+//	Pregunta 02: Separar un numero en los digitos que lo componen
 	int numero = 0;
 	int numeros [30];
 	
